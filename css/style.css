@@ -1,0 +1,26 @@
+.bg-orange{
+    background-color: #FFC017;
+}
+
+.b-bottom-dark{
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+
+.b-bottom-light{
+    border-bottom: 1px solid rgb(190, 190, 190);
+}
+
+.font-f{
+    font-family: 'Roboto Serif', sans-serif;
+}
+
+.aside-btn a{
+    margin-bottom: 5px;
+}
+
+.sticky-sidebar{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 800px;
+    padding: 5px;
+  }
